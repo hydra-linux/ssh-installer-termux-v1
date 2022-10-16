@@ -19,15 +19,15 @@ I also included the guide to connect to the ssh server.
 
 # Steps to install ssh server in termux
 First, if you do not have the wget package installed, send this command:
-'''
+
 $ pkg install wget 
 
 Now enter the following commands in order:
-'''
+
 $ wget https://github.com/eobardtawne/ssh-installer-termux-v1/blob/main/ssh-install
-'''
+
 $ chmod +x ssh-install
-'''
+
 $ bash ssh-install
 
 So easy to install successfully!
