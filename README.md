@@ -1,4 +1,7 @@
 
+![preview](preview.png "screenshot")
+
+
 ![][preview.png]
 
 # ssh-installer-termux
