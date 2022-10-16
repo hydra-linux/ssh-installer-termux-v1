@@ -1,3 +1,6 @@
+
+![][https://github.com/eobardtawne/ssh-installer-termux-v1/blob/main/preview.png]
+
 # ssh-installer-termux
 Easy setup of ssh server in Thermox (installer and automatic startup of ssh server and its prerequisites in Termux)
 
