@@ -11,5 +11,10 @@ For those who are new to the Linux operating system, it is difficult to work wit
 That's why I developed this script to automate the setup of the ssh server.
 I also included the guide to connect to the ssh server.
 
+# Steps to install ssh server in termux
 
+To install ssh, just put this command in your termux and click enter:
 
+$ pkg install wgetl 
+
+$ wget https://github.com/eobardtawne/ssh-installer-termux-v1/blob/main/ssh-install
