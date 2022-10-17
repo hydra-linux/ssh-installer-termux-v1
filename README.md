@@ -17,13 +17,13 @@ That's why I developed this script to automate the setup of the ssh server.
 I also included the guide to connect to the ssh server.
 
 ### Steps to install ssh server in termux
-First, if you do not have the wget package installed, send this command:
+First, if you do not have the git package installed, send this command:
 
-$ pkg install wget 
+$ apt install git 
 
 Now enter the following commands in order:
 
-$ wget https://github.com/eobardtawne/ssh-installer-termux-v1/blob/main/ssh-install
+$ git clone https://github.com/eobardtawne/ssh-installer-termux-v1/blob/main/ssh-install
 
 $ chmod +x ssh-install
 
