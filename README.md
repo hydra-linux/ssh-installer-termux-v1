@@ -23,7 +23,7 @@ $ apt install git
 
 Now enter the following commands in order:
 
-$ git clone https://github.com/eobardtawne/ssh-installer-termux-v1/blob/main/ssh-install
+$ git clone https://github.com/eobardtawne/ssh-installer-termux-v1/blob/main/ssh-install.sh
 
 $ chmod +x ssh-install
 
