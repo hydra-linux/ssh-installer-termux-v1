@@ -29,9 +29,9 @@ $ cd ssh-installer-termux-v1
 
 $ chmod +x ssh-install
 
-$ cd && rm -fr ssh-installer-termux-v1
-
 $ bash ssh-install
+
+$ cd && rm -fr ssh-installer-termux-v1
 
 So easy to install successfully!
 ### Note: If there was a problem in downloading and installing, try again with vpn
