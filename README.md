@@ -25,7 +25,11 @@ Now enter the following commands in order:
 
 $ git clone https://github.com/eobardtawne/ssh-installer-termux-v1
 
+$ cd ssh-installer-termux-v1
+
 $ chmod +x ssh-install
+
+$ cd && rm -fr ssh-installer-termux-v1
 
 $ bash ssh-install
 
