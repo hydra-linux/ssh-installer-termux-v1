@@ -9,7 +9,7 @@ function get-openssh() {
 clear
 printf "${blue}[*] installing open ssh... ${reset}\n"
 pkg install openssh -y
-printf "${greem}[*] Successfully installed... ${reset}\n"
+printf "${green}[*] Successfully installed... ${reset}\n"
 }
 function get-nmap() {
 clear
